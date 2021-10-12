@@ -20,3 +20,4 @@ urlpatterns = [
     path('chores/', include('chores.urls')),
     path('admin/', admin.site.urls),
 ]
+l
